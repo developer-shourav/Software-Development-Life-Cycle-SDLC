@@ -8,6 +8,7 @@ The **Software Development Life Cycle (SDLC)** outlines the systematic approach 
 
 ## **1. Planning / Analyze**
 The initial phase involves defining the scope, goals, and feasibility of the software project. This phase lays the foundation for the rest of the development process.
+
 **Who Does This:**
 - Product Owner
 - Project Manager
